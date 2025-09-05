@@ -7,11 +7,11 @@ public class FizzBuzz {
     }
 
     public String countOffMultiple3(int num) {
-        return num % 3 == 0 ?  "Fizz" : null;
+        return num % 3 == 0 ? "Fizz" : null;
     }
 
 
     public String countOffMultiple5(int num) {
-        return null;
+        return num % 5 == 0 ? "Buzz" : null;
     }
 }
