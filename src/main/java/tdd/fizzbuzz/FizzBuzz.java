@@ -7,4 +7,7 @@ public class FizzBuzz {
     }
 
 
+    public String countOffMultiple3(int num) {
+        return null;
+    }
 }
