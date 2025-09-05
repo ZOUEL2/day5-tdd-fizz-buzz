@@ -11,4 +11,7 @@ public class FizzBuzz {
     }
 
 
+    public String countOffMultiple5(int num) {
+        return null;
+    }
 }
