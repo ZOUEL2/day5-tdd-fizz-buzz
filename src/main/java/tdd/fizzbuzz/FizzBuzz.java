@@ -6,8 +6,9 @@ public class FizzBuzz {
         return String.valueOf(num);
     }
 
-
     public String countOffMultiple3(int num) {
-        return null;
+        return num % 3 == 0 ?  "Fizz" : null;
     }
+
+
 }
