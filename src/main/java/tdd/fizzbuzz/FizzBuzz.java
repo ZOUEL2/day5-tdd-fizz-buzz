@@ -14,4 +14,8 @@ public class FizzBuzz {
     public String countOffMultiple5(int num) {
         return num % 5 == 0 ? "Buzz" : null;
     }
+
+    public String countOffMultiple3And5(int num) {
+        return null;
+    }
 }
